@@ -1,6 +1,6 @@
 # TOFU LinkedIn Skills
 
-A pack of 14 LinkedIn writing skills for top-of-funnel (reach) posts: a router that
+A pack of 12 LinkedIn writing skills for top-of-funnel (reach) posts: a router that
 picks the right post type for your topic, 8 dedicated post-type skills, two hook-design
 skills, and three quality-control skills. Reverse-engineered from hundreds of real
 high-performing LinkedIn posts, then de-branded so you write in **your own** voice.
@@ -29,12 +29,10 @@ These work as [Claude Code](https://docs.claude.com/en/docs/claude-code) / Herme
 ### Hook design
 - **`hook-mechanics`** — generate hook options by matching a proven mechanic to your post
   type AND the real substance you have. The main hook engine.
-- **`place-hook-method`** — turn a real moment from your week into hooks (the PLACE method).
 
 ### Quality control
 - **`anti-ai-pass`** — a budgeted anti-AI-slop pass (with a lint script) run as the last
   step before you ship a draft.
-- **`stop-slop`** — a general-purpose AI-writing-pattern remover.
 - **`post-grader`** — grade a finished post against a checklist.
 
 ---
@@ -76,15 +74,10 @@ a specific post-type skill directly. Run `anti-ai-pass` on the draft before you 
 ## Important: keep the shared files shared
 
 Don't copy the brand files into each skill. Every skill reads the single `brand/` copy on
-purpose — change a voice rule once and it flows to all 14 skills. If you fork copies, they
+purpose — change a voice rule once and it flows to all 12 skills. If you fork copies, they
 drift. Adjust the brand files to your voice; leave the reference structure intact.
 
 ## Note on examples
 Some skills quote real high-performing posts as illustrative examples of a structure. Treat
 them as calibration for the *shape*, never text to copy. Always write with your own facts;
 never fabricate a stat, quote, credential, or client to fill a slot.
-
-## Credits
-- **`stop-slop`** is by **Hardik Pandya** (https://hvpandya.com), included under its own
-  MIT license (see `skills/stop-slop/LICENSE`). All credit for that skill is his; it is
-  bundled here unmodified.
