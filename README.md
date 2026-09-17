@@ -61,7 +61,9 @@ Two files ship **blank on purpose** — fill them with your own voice and facts:
 
 One file is **ready to use as-is** (generic craft, not tied to anyone's voice):
 - **`brand/writing-style.md`** — spartan style rules + banned AI-tell words (Part 1), plus
-  the anti-AI-fingerprint / reads-human checklist (Part 2).
+  the anti-AI-fingerprint / reads-human checklist (Part 2). Every drafting skill points at
+  this one file rather than restating the rules, so a single edit here flows to all of them
+  and they can never drift apart. Change your style once, and every skill follows.
 
 ### 3. Use them
 Point your agent at `skills/` and start with `tofu-orchestrator` (give it a topic) or call
