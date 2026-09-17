@@ -63,13 +63,6 @@ One file is **ready to use as-is** (generic craft, not tied to anyone's voice):
 - **`brand/writing-style.md`** — spartan style rules + banned AI-tell words (Part 1), plus
   the anti-AI-fingerprint / reads-human checklist (Part 2).
 
-Two reference files live inside the skills that own them (nothing to set up):
-- the post-type taxonomy the router uses —
-  `skills/tofu-orchestrator/references/tofu-pattern-analysis.md`
-- the cross-creator hook quality gate —
-  `skills/post-grader/references/hook-floor-check.md` (post-grader is the checker every
-  drafting skill invokes in its draft-check-rewrite loop).
-
 ### 3. Use them
 Point your agent at `skills/` and start with `tofu-orchestrator` (give it a topic) or call
 a specific post-type skill directly. Run `anti-ai-pass` on the draft before you post.
