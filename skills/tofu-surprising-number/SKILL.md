@@ -82,7 +82,7 @@ Use when: the number genuinely reframes something, and you can source it. A stat
 - **A second number that deepens the first** (optional, common in the dataset): 90% vs 10%, 88% vs 5% vs 95%, $150K vs $4.5K. The ratio is often more surprising than either number alone.
 - **The two-line reframe closer.** "The model is the visible 10%. The system is where the value lives." / "AI models are becoming a commodity. AI systems are becoming the moat." Flip the number into the lesson.
 
-**Floor-check (run before finalizing):** per `<BRAND_DIR>/hook-floor-check.md`
+**Floor-check (run before finalizing):** the full checklist lives in `post-grader`'s `references/hook-floor-check.md` (post-grader is invoked in the draw-check-rewrite loop below);
 (cross-creator structural finding, not voice-specific) — does it open a real
 loop that's still open at the fold, is it concrete not abstract, is the register
 right. Surprising Number wasn't one of the 5 archetypes with enough sample size for

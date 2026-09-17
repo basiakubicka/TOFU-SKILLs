@@ -95,7 +95,7 @@ Real reference examples (Story-or-List): your own — "\"I don't know how to do 
 - **Warm second person.** "You" and "your" carry this archetype — the reader must feel addressed, not lectured.
 - **The affirming closer + the "what's yours?" question.** Ends on possibility, then hands the mic to the reader ("What's one thing you've been putting off?", "What's your #1 most undervalued skill?"). This is what converts resonance into comments.
 
-**Floor-check (run before finalizing):** per `<BRAND_DIR>/hook-floor-check.md`
+**Floor-check (run before finalizing):** the full checklist lives in `post-grader`'s `references/hook-floor-check.md` (post-grader is invoked in the draw-check-rewrite loop below);
 (cross-creator structural finding, not voice-specific) — is it concrete not
 abstract, is the register right. Relatable Mirror's baseline from that analysis:
 opens_loop only ~23% — **loops are NOT the norm for this archetype, don't force

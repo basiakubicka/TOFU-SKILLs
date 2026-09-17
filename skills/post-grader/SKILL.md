@@ -24,7 +24,7 @@ for each, is the whole value of this skill. Don't skip a check because the post
 "obviously" passes it.
 
 **This skill does not contain the rules themselves.** Every check below points at
-`<BRAND_DIR>/hook-floor-check.md` — read that file fresh each time (don't rely on
+[`references/hook-floor-check.md`](./references/hook-floor-check.md) — read that file fresh each time (don't rely on
 memory of it from earlier in the conversation; it gets updated as new findings land).
 If a claim here and in that file ever disagree, the file wins.
 

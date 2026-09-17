@@ -64,7 +64,7 @@ Adds a LITTLE substance to the joke — heavier text than a pure meme, much ligh
 - **For elevated: one clean reframe line**, not a full mic-drop paragraph.
 
 **Floor-check — applies loosely, image-first:** the general checklist in
-`<BRAND_DIR>/hook-floor-check.md` was built for text hooks; a meme's real hook is
+`post-grader`'s `references/hook-floor-check.md` was built for text hooks; a meme's real hook is
 the image, so text-only loop mechanics apply weakly here. The one part that still
 holds: keep the caption concrete over abstract (a named template/subject beats a
 vague "this is so relatable" framing) and never resolve the joke's own loop in text —
@@ -98,10 +98,12 @@ Skip it entirely. A credibility line would kill a meme's timing.
 ## Output Format
 Pattern selection, drafting, and self-critique are **internal**.
 
-**Critique-and-rewrite (single pass, no loop budget for this archetype).** Meme
-captions are short by design — a single check-and-tighten pass is enough; the
-3-loop budget in `<BRAND_DIR>/linkedin-voice.md` is overkill here since there's no
-body to check for reading level/single-point/filler (the image carries the payload).
+**Critique-and-rewrite (single pass, no loop budget for this archetype).** Unlike the
+other TOFU archetypes, meme does NOT run the `post-grader` draft-check-rewrite loop: the
+real hook is the image, not text, so the grader's text-hook checks mostly don't apply.
+Meme captions are short by design — a single check-and-tighten pass is enough; the
+3-loop budget is overkill here since there's no body to check for reading
+level/single-point/filler (the image carries the payload).
 Write it, run the self-check below, output the revised version.
 
 ### 1. The Post (caption + a description/placeholder of the image if none is provided)

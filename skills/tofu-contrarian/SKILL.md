@@ -198,8 +198,7 @@ Optional employer-safe add: *"Opinions expressed are my own and do not represent
 - **One reading only:** every "this/most/they/it" points at one thing.
 - **Promise = payoff:** the body must actually prove the belief wrong — not just assert it twice.
 
-**Floor-check (run before finalizing):** per `<BRAND_DIR>/hook-floor-check.md`
-(cross-creator structural finding, not voice-specific) — does it open a real
+**Floor-check (run before finalizing):** the full checklist lives in `post-grader`'s `references/hook-floor-check.md` (post-grader is invoked in the draft-check-rewrite loop below; cross-creator structural finding, not voice-specific) — does it open a real
 loop that's still open at the fold, is it concrete not abstract, does it use direct
 address, is the register casual/punchy. Contrarian's baseline from that analysis:
 opens_loop ~65%, takes_a_side ~84% (highest of any archetype — makes sense, this IS

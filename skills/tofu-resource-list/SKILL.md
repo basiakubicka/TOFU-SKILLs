@@ -235,7 +235,7 @@ someone $2,000."* This is the metric the archetype is judged on. Ask for it dire
 - **One reading only:** every "this/most/they/it" points at one thing.
 - **Promise = payoff:** the body must actually contain the N real, working, free items the hook claims, not a tease that funnels to a paywall.
 
-**Floor-check (run before finalizing):** per `<BRAND_DIR>/hook-floor-check.md`
+**Floor-check (run before finalizing):** the full checklist lives in `post-grader`'s `references/hook-floor-check.md` (post-grader is invoked in the draw-check-rewrite loop below);
 (cross-creator structural finding, not voice-specific) — does it open a real
 loop that's still open at the fold, is it concrete not abstract, is the register
 casual/punchy. Resource Roundup's baseline from that analysis: opens_loop ~94% (the

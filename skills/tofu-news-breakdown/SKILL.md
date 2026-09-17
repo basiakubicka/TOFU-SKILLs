@@ -76,7 +76,7 @@ Use when: a real, recent, NAMED talk/launch/announcement exists that's worth dis
 - **The whole-thing-in-one-sentence mic drop** — the entire talk/launch compressed into one memorable line.
 - **Always link the real source — inline, not "in comments."** Put the actual `Source: <url>` directly in the post body (e.g. under the mic-drop line or in the footer), not deferred to "link in comments." R3 eval evidence: this single change moved the source_linked_verifiable dimension +2.5 points (an order of magnitude past judge noise) with zero truth risk — "in comments" reads as unverifiable/deferred even when the same source is genuinely real.
 
-**Floor-check (run before finalizing):** per `<BRAND_DIR>/hook-floor-check.md`
+**Floor-check (run before finalizing):** the full checklist lives in `post-grader`'s `references/hook-floor-check.md` (post-grader is invoked in the draw-check-rewrite loop below);
 (cross-creator structural finding, not voice-specific) — does it open a real
 loop that's still open at the fold, is it concrete not abstract, is the register
 right. News Breakdown's baseline from that analysis: opens_loop ~57%, takes_a_side

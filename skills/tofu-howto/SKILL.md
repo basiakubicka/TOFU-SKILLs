@@ -73,7 +73,7 @@ Build the system first. The outputs follow.
 - **Exact concrete detail on every step.** A real price ($20/month), a real path (`.claude/CLAUDE.md`), a real setting name (Extended Thinking), never "optimize your prompts."
 - **The outcome-tied closer.** "X doesn't know what good looks like until you tell it." / "Build the system first. The outputs follow."
 
-**Floor-check (run before finalizing):** per `<BRAND_DIR>/hook-floor-check.md`
+**Floor-check (run before finalizing):** the full checklist lives in `post-grader`'s `references/hook-floor-check.md` (post-grader is invoked in the draw-check-rewrite loop below);
 (cross-creator structural finding, not voice-specific) — does it open a real
 loop that's still open at the fold, is it concrete not abstract, is the register
 right. How-To wasn't one of the 5 archetypes with enough sample size for its own

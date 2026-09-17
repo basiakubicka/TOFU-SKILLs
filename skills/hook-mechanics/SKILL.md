@@ -351,8 +351,8 @@ just the top number, when explaining why a mechanic is proven.
 
 **Not a voice-specific rule — a cross-creator structural finding.** Full checklist,
 methodology, and real before/after examples live in
-`<BRAND_DIR>/hook-floor-check.md` (pulled from the general LinkedIn corpus, any
-author — not your own writing). Run it on every hook + rehook AFTER picking a
+`post-grader`'s `references/hook-floor-check.md` (pulled from the general LinkedIn corpus, any
+author, not your own writing). Run it on every hook + rehook AFTER picking a
 mechanic from this skill's bank, before finalizing. TL;DR: does it open a real
 unresolved loop that's still open at the fold, is it concrete over abstract, is the
 register/direct-address right for the archetype (per-archetype baselines in that

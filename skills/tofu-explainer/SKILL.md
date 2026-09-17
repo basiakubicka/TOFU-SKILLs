@@ -80,7 +80,7 @@ Use when: a concept has genuinely distinct, nameable parts that build on each ot
 - **The recap-quadruplet mic drop.** One sentence per layer, in order, then the vivid punch: "The LLM thinks. RAG fact-checks. Agents execute. MCP connects them all. ... Hands on a brain that can't see just flail."
 - **Credit the diagram author** when a visual backs the breakdown (per `<BRAND_DIR>/linkedin-voice.md`'s truth/authorship rule).
 
-**Floor-check (run before finalizing):** per `<BRAND_DIR>/hook-floor-check.md`
+**Floor-check (run before finalizing):** the full checklist lives in `post-grader`'s `references/hook-floor-check.md` (post-grader is invoked in the draw-check-rewrite loop below);
 (cross-creator structural finding, not voice-specific) — does it open a real
 loop that's still open at the fold, is it concrete not abstract, is the register
 right. Conceptual Explainer's baseline from that analysis: opens_loop ~82%,
