@@ -45,8 +45,8 @@ here. Skip it entirely on posts where the credibility is already obvious from th
 
 ## Classification — is this actually a Contrarian post?
 
-Per `<BRAND_DIR>/tofu-pattern-analysis.md`'s decision-signal
-order, a post is Contrarian when it **asserts a belief is wrong** — before any other rule
+By the shared decision-signal order (the orchestrator's `tofu-pattern-analysis` reference),
+a post is Contrarian when it **asserts a belief is wrong** — before any other rule
 fires (meme, resource-link, dated-news-event, one jarring $/% figure). If the post's real
 payload is a link, a numbered how-to, a decoded concept, or a single shocking number with
 no "X is wrong" framing, it's a different archetype — see `tofu-orchestrator` to route.
@@ -131,8 +131,8 @@ symptom list or a real breakdown (data, setup, fundamentals over hype).
 
 ## Judge this archetype by ITS success metric: COMMENTS, not shares
 
-**This is the one rule that differs from every other TOFU archetype.** Per
-`<BRAND_DIR>/tofu-pattern-analysis.md`: across 52 contrarian myth-busts, median cmt/like ratio is
+**This is the one rule that differs from every other TOFU archetype.** Across a sample of
+52 contrarian myth-busts, median cmt/like ratio is
 **0.11** — the highest of any TOFU pattern — and share/like is only 0.10 (below the
 resource-roundup's 0.14). **A contrarian post that gets reshared like a resource list but
 draws few comments has NOT succeeded on its own terms**, even if raw likes are high.
@@ -238,7 +238,7 @@ Under 1,500 fails the length check outright.
 - List caps: ≤5 main items, ≤3 sub-bullets each.
 
 ## Sound human — reads like you, not AI
-> **Full rule set:** [`content-research/reads-human.md`](<BRAND_DIR>/reads-human.md) — anti-fingerprint checklist + Specificity Audit.
+> **Full rule set:** `<BRAND_DIR>/writing-style.md` Part 2 — the anti-fingerprint checklist + Specificity Audit.
 - **Ban AI-tells:** delve, leverage (verb), harness, unlock, elevate, empower, foster, facilitate, streamline, seamless, robust, transformative, innovative, cutting-edge, navigate (metaphor), myriad, plethora, tapestry, "in the digital landscape", "in today's fast-paced world", Furthermore/Moreover/Additionally (filler), ultimately/essentially/fundamentally (filler), AI-native, "compounding", legacy (filler adjective).
 - **Break structural symmetry** — vary sentence length hard; uneven list items; at least one asymmetric structural move per post.
 - **Shift register at least once** — dry deadpan next to a real claim.

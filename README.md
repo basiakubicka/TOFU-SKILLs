@@ -59,11 +59,13 @@ Two files ship **blank on purpose** — fill them with your own voice and facts:
   beats. This is the big one; the more specific, the better your posts.
 - **`brand/story-bank.md`** — your real stories and hard numbers, drawn on for credibility.
 
-Three files are **ready to use as-is** (generic craft, not tied to anyone's voice):
-- **`brand/writing-style.md`** — spartan style rules + banned AI-tell words.
+Two files are **ready to use as-is** (generic craft, not tied to anyone's voice):
+- **`brand/writing-style.md`** — spartan style rules + banned AI-tell words (Part 1), plus
+  the anti-AI-fingerprint / reads-human checklist (Part 2).
 - **`brand/hook-floor-check.md`** — a cross-creator hook quality gate.
-- **`brand/reads-human.md`** — the anti-AI-fingerprint checklist.
-- **`brand/tofu-pattern-analysis.md`** — the data-derived post-type taxonomy the router uses.
+
+The post-type taxonomy the router uses lives inside the orchestrator skill itself
+(`skills/tofu-orchestrator/references/tofu-pattern-analysis.md`) — nothing to set up.
 
 ### 3. Use them
 Point your agent at `skills/` and start with `tofu-orchestrator` (give it a topic) or call

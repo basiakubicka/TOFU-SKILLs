@@ -58,7 +58,7 @@ Don't turn this into an interview. One quick question only if it changes the rou
 ## Step 2 — Run the diagnostic in order
 
 This mirrors the decision-signal order already established in
-`<BRAND_DIR>/tofu-pattern-analysis.md` and echoed in every
+[`references/tofu-pattern-analysis.md`](./references/tofu-pattern-analysis.md) and echoed in every
 archetype skill's own "Classification" section (read the live one if in doubt — this
 list is a summary, not a replacement).
 

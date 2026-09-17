@@ -65,7 +65,7 @@
 - Any personal story must be true to your real life.
 
 ## Sound-human checklist
-<!-- Points at reads-human.md in this same folder. Keep or extend. -->
+<!-- Points at writing-style.md Part 2 in this same folder. Keep or extend. -->
 
-See [`reads-human.md`](./reads-human.md) — the anti-AI-fingerprint checklist. Run it on
-every draft. Specificity only you could supply is the moat.
+See [`writing-style.md`](./writing-style.md) Part 2 — the anti-AI-fingerprint checklist.
+Run it on every draft. Specificity only you could supply is the moat.

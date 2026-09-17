@@ -65,7 +65,7 @@ step 2.
 - **Structural moves >= 2 (budget blown):** keep the strongest ONE (usually the hook),
   rewrite the others as plain sentences. See the worked example below.
 
-### 3. Rhythm / structural tells (from your list + <BRAND_DIR>/reads-human.md)
+### 3. Rhythm / structural tells (from your list + `<BRAND_DIR>/writing-style.md` Part 2)
 Flag and fix even when the linter is silent:
 - **Rule of three** ("Agents. Automations. Orchestration layers."). Cut to two or expand
   to four+. Groups of exactly three are a tell.
@@ -78,7 +78,7 @@ Flag and fix even when the linter is silent:
 - **Em/en dashes.** Never. Commas, periods, parentheses.
 - **Rhetorical question answered immediately.** State the point directly.
 
-### 4. Specificity gate (the real anti-AI move, per <BRAND_DIR>/reads-human.md)
+### 4. Specificity gate (the real anti-AI move, per `<BRAND_DIR>/writing-style.md` Part 2)
 The structural budget kills the surface tell; specificity is what actually makes it read
 as you. Before shipping, count details ONLY you could have supplied:
 - TOFU: >= 2. MOFU: >= 3, one shown as a scene.
@@ -120,7 +120,7 @@ budget on top so a draft never ships with the moves stacked or the tell-words in
 - **Don't fabricate a specific to pass the specificity gate.** Ask instead. Fabrication is
   the worse failure — see the multiple real fabrication incidents logged in
   `your own content-ops notes`.
-- **The linter is a STYLE gate, not anti-detection.** Per `<BRAND_DIR>/reads-human.md`, you cannot
+- **The linter is a STYLE gate, not anti-detection.** Per `<BRAND_DIR>/writing-style.md` Part 2, you cannot
   beat a neural detector (Pangram) with a word list, and chasing that is a treadmill.
   This exists so the copy reads like you to a human, which is the same job as killing
   the fingerprint — but the goal is voice, not evasion. Don't sell it as detector-proofing.

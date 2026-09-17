@@ -47,8 +47,8 @@ here. Skip it when the institution/curator's own authority already carries the h
 
 ## Classification: is this actually a Resource Roundup post?
 
-Per `<BRAND_DIR>/tofu-pattern-analysis.md`'s decision-signal
-order, a post lands in the resource family when it **hands the reader links/resources**,
+By the shared decision-signal order (the orchestrator's `tofu-pattern-analysis` reference),
+a post lands in the resource family when it **hands the reader links/resources**,
 before the contrarian, news, surprising-number, or how-to rules fire. Within the family:
 
 - **One named thing/video** (a single Boris Cherny talk, one course, one doc) = Resource
@@ -145,8 +145,8 @@ institution), and the reader can act on it today.
 
 ## Judge this archetype by ITS success metric: SHARES/SAVES, not comments
 
-**This is the one rule that differs from every other TOFU archetype.** Per
-`<BRAND_DIR>/tofu-pattern-analysis.md`: across 27 resource roundups, median share/like ratio is
+**This is the one rule that differs from every other TOFU archetype.** Across a sample of
+27 resource roundups, median share/like ratio is
 **0.14**, the highest of any TOFU pattern, with a median of **251 shares** per post,
 against a cmt/like of only 0.06. **A resource roundup that draws comments but no shares
 has NOT succeeded on its own terms**, even if raw likes are high. This is the exact
@@ -280,7 +280,7 @@ Under 1,500 fails the length check outright.
   runs 7-13, because the value IS the volume, but only when every item keeps its filter.
 
 ## Sound human: reads like you, not AI
-> **Full rule set:** [`content-research/reads-human.md`](<BRAND_DIR>/reads-human.md), anti-fingerprint checklist + Specificity Audit.
+> **Full rule set:** `<BRAND_DIR>/writing-style.md` Part 2, the anti-fingerprint checklist + Specificity Audit.
 - **Ban AI-tells:** delve, leverage (verb), harness, unlock, elevate, empower, foster, facilitate, streamline, seamless, robust, transformative, innovative, cutting-edge, navigate (metaphor), myriad, plethora, tapestry, "in the digital landscape", "in today's fast-paced world", Furthermore/Moreover/Additionally (filler), ultimately/essentially/fundamentally (filler), AI-native, "compounding", legacy (filler adjective).
 - **Break structural symmetry**: vary sentence length hard; uneven list items; at least one asymmetric structural move per post. In a roundup, the risk is the opposite: identical item formatting is a feature (scanability), so put the asymmetry in the reframe and the closer.
 - **Shift register at least once**: dry deadpan next to a real claim.

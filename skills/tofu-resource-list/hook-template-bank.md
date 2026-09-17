@@ -28,7 +28,7 @@ below gets its scroll-stop from one of three sources: a recognized institution's
 (Stanford, Harvard, MIT, Anthropic, NVIDIA, Google), a real price being zeroed out
 ("$10,000", "$500 courses"), or the poster's own verifiable effort ("I spent 1000
 hours"). A hook with none of the three has no engine. 69% of overperforming TOFU posts
-name a recognized entity; 41% name it in line 1 (<BRAND_DIR>/tofu-pattern-analysis.md).
+name a recognized entity; 41% name it in line 1.
 
 ---
 
